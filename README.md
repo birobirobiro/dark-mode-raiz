@@ -6,13 +6,13 @@
 </h1>
 
 ---
-## Índice
+## 📕 Índice
 
-- [Sobre](#sobre)
+- [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## Sobre
+## 🗒 Sobre
 
 Projeto desenvolvido durante o WorkshopDev da Rocketseat com o intuito de cadastrar ideias durante a pandemia.
 
